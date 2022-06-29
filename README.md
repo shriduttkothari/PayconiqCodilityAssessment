@@ -1,0 +1,2 @@
+# PayconiqCodilityAssessment
+Payconiq SpringBoot Codility Assessment
